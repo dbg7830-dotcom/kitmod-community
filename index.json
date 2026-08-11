@@ -1,6 +1,15 @@
 {
   "kits": [
     {
+      "id": "atkillerninja_mace_ht_222f",
+      "name": "mace ht",
+      "author": "atkillerninja",
+      "description": "maceht by vulgar",
+      "iconItemId": "minecraft:chest",
+      "imageBase64": null,
+      "uploadedAt": "2026-08-11T01:37:47.343275587Z"
+    },
+    {
       "id": "test_kit_001",
       "name": "Test Kit",
       "author": "testuser",
