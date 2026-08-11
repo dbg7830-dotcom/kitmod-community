@@ -1,0 +1,8 @@
+{
+  "id": "test_kit_001",
+  "name": "Test Kit",
+  "author": "testuser",
+  "slots": {
+    "0": "test"
+  }
+}
