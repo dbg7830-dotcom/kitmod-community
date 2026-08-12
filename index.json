@@ -8,15 +8,6 @@
       "iconItemId": "minecraft:chest",
       "imageBase64": null,
       "uploadedAt": "2026-08-11T01:37:47.343275587Z"
-    },
-    {
-      "id": "test_kit_001",
-      "name": "Test Kit",
-      "author": "testuser",
-      "description": "",
-      "iconItemId": "minecraft:chest",
-      "imageBase64": null,
-      "uploadedAt": "2026-08-11T01:26:09.904Z"
     }
   ]
 }
