@@ -1,6 +1,15 @@
 {
   "kits": [
     {
+      "id": "not_miltos_spear_mace_abe3",
+      "name": "spear mace",
+      "author": "not_miltos",
+      "description": "a spear mace kit",
+      "iconItemId": "minecraft:chest",
+      "imageBase64": null,
+      "uploadedAt": "2026-08-27T12:20:14.740691300Z"
+    },
+    {
       "id": "flamefrig_money_smp_kit_dabf",
       "name": "money smp kit",
       "author": "flamefrig",
