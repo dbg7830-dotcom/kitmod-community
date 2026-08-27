@@ -1,6 +1,15 @@
 {
   "kits": [
     {
+      "id": "flamefrig_money_smp_kit_6625",
+      "name": "money smp kit",
+      "author": "flamefrig",
+      "description": "",
+      "iconItemId": "minecraft:netherite_axe",
+      "imageBase64": null,
+      "uploadedAt": "2026-08-27T09:50:28.473843200Z"
+    },
+    {
       "id": "animoresyt_cpvp_8624",
       "name": "cpvp",
       "author": "animoresyt",
